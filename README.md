@@ -1,1 +1,1 @@
-# Randomness-Tests
+Independence Tests
